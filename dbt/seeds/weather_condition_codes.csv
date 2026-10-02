@@ -1,0 +1,28 @@
+condition_code,condition_name,is_clear,is_precipitation
+1,Clear,1,0
+2,Fair,1,0
+3,Cloudy,0,0
+4,Overcast,0,0
+5,Fog,0,0
+6,Freezing Fog,0,0
+7,Light Rain,0,1
+8,Rain,0,1
+9,Heavy Rain,0,1
+10,Freezing Rain,0,1
+11,Heavy Freezing Rain,0,1
+12,Sleet,0,1
+13,Heavy Sleet,0,1
+14,Light Snowfall,0,1
+15,Snowfall,0,1
+16,Heavy Snowfall,0,1
+17,Rain Shower,0,1
+18,Heavy Rain Shower,0,1
+19,Sleet Shower,0,1
+20,Heavy Sleet Shower,0,1
+21,Snow Shower,0,1
+22,Heavy Snow Shower,0,1
+23,Lightning,0,0
+24,Hail,0,1
+25,Thunderstorm,0,1
+26,Heavy Thunderstorm,0,1
+27,Storm,0,1

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: northwind_data
+    schema: northwind   # adapte selon ton schéma
+    tables:
+      - name: customers
+      - name: orders
+      - name: order_details
+      - name: products
